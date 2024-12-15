@@ -1,0 +1,16 @@
+{
+  "name": "obfuscator-api",
+  "version": "1.0.0",
+  "description": "API for obfuscating JavaScript code",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "js-confuser": "^2.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
